@@ -1,0 +1,13 @@
+package chap05;
+
+public class EnumWeekExample {
+
+	public static void main(String[] args) {
+		// 열거타입과 열거 상수
+		Week today = null ; //열거타입 변수 today선언
+		
+		Calendar cal = Calender.getInstance();
+		int week = cal.het(Calender.Day_OF_WEEK);
+	}
+
+}

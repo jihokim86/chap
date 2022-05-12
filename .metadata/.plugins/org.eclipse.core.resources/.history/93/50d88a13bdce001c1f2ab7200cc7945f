@@ -1,0 +1,15 @@
+package chap05;
+
+public class ArrayReferenceObjecExample {
+
+	public static void main(String[] args) {
+		// 객체를 참조하는 배열
+		
+		String[] strArray = new String[3];
+		strArray[0] = "java";
+		strArray[1] = "java";
+		strArray[2] = new String("java");
+		
+	}
+
+}

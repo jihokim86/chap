@@ -1,0 +1,15 @@
+package chap05;
+
+public class ArrayCopyByExample {
+
+	public static void main(String[] args) {
+		//배열 복사
+		int[] oldIntArry = {1,2,3};
+		int[] newIntArry = new int[5];
+		
+		for(int i=0;i<oldIntArry.length;i++) {
+			newIntArry[i]=oldIntArry[i];
+		}
+	}
+
+}

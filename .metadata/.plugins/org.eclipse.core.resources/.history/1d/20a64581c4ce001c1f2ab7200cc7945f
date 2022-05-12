@@ -1,0 +1,13 @@
+package chap05;
+
+public class EnumMethodExample {
+
+	public static void main(String[] args) {
+		// 열거 객체의 매소드
+		// name()매소드
+		Week today = Week.SUNDAY; // today변수에 번지수가 저장
+		String name = today.name();//열거객체가 가지고 있는 문자열을 리턴
+		System.out.println(name); // 
+	}
+
+}

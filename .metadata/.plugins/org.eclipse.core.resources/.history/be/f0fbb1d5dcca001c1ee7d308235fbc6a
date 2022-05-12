@@ -1,0 +1,12 @@
+package chap3;
+
+public class BitLogicExample {
+
+	public static void main(String[] args) {
+		
+		//비트 논리 연산사
+		
+		System.out.println("45&25="+(45&25));
+	}
+
+}

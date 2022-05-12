@@ -1,0 +1,17 @@
+AbstractTextEditor.Color.Background=40,44,52
+AbstractTextEditor.Color.FindScope=0,0,0
+AbstractTextEditor.Color.Foreground=171,178,191
+AbstractTextEditor.Color.SelectionBackground=62,68,81
+AbstractTextEditor.Color.SelectionForeground=171,178,191
+PHPReadOccurrenceIndicationColor=49,67,101
+PHPWriteOccurrenceIndicationColor=0,0,0
+currentLineColor=40,44,52
+deletionIndicationColor=210,82,82
+eclipse.preferences.version=1
+filteredSearchResultIndicationColor=49,67,101
+javaScriptOccurrenceIndicationColor=49,67,101
+lineNumberColor=99,109,131
+occurrenceIndicationColor=49,67,101
+printMarginColor=99,109,131
+searchResultIndicationColor=49,67,101
+writeOccurrenceIndicationColor=0,0,0

@@ -1,0 +1,16 @@
+package chap3;
+
+public class IncreaseDecreaseOpertorExample {
+
+	public static void main(String[] args) {
+		
+		// 증감 연산자
+		
+		int x = 10;
+		int y = 10;
+		int z;
+		
+		System.out.println("-----------------------------");
+	}
+
+}
