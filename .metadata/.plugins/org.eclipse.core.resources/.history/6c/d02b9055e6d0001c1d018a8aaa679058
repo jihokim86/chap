@@ -1,0 +1,17 @@
+package p238;
+
+public class CalculatorExample {
+
+	public static void main(String[] args) {
+		// 정적멤버사용
+		double result1 = 10*10*Calculator.pi;
+		int result2 = Calculator.puls(10, 5);
+		int result3 = Calculator.minus(10, 5);
+		
+		System.out.println("result1:"+result1);
+		System.out.println("result2:"+result2);
+		System.out.println("result3:"+result3);
+		System.out.println("result3:"+plus);
+	}
+
+}
