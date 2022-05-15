@@ -3,4 +3,10 @@
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="Calculator"/>
+    <fullyQualifiedTypeName name="class1_2.Computer"/>
+    <fullyQualifiedTypeName name="javax.print.attribute.SetOfIntegerSyntax"/>
+    <fullyQualifiedTypeName name="class1_3.Car"/>
+    <fullyQualifiedTypeName name="class1_4.Calculator"/>
+    <fullyQualifiedTypeName name="class1_5.Car"/>
 </qualifiedTypeNameHistroy>
