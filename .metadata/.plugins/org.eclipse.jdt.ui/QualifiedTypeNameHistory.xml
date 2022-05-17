@@ -8,4 +8,8 @@
     <fullyQualifiedTypeName name="sec12.exam03_import.kumho.Tire"/>
     <fullyQualifiedTypeName name="p290.CellPhone"/>
     <fullyQualifiedTypeName name="p290.DmbCellPhone"/>
+    <fullyQualifiedTypeName name="p350.Serchable"/>
+    <fullyQualifiedTypeName name="p350.RemoteControl"/>
+    <fullyQualifiedTypeName name="p350.Television"/>
+    <fullyQualifiedTypeName name="p350.Audio"/>
 </qualifiedTypeNameHistroy>
