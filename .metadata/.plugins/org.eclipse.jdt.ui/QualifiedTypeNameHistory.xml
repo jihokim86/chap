@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="p207.Korea"/>
@@ -9,7 +8,14 @@
     <fullyQualifiedTypeName name="p290.CellPhone"/>
     <fullyQualifiedTypeName name="p290.DmbCellPhone"/>
     <fullyQualifiedTypeName name="p350.Serchable"/>
-    <fullyQualifiedTypeName name="p350.RemoteControl"/>
     <fullyQualifiedTypeName name="p350.Television"/>
     <fullyQualifiedTypeName name="p350.Audio"/>
+    <fullyQualifiedTypeName name="p350.RemoteControl"/>
+    <fullyQualifiedTypeName name="org.graalvm.compiler.core.common.alloc.Trace"/>
+    <fullyQualifiedTypeName name="p367.Tire"/>
+    <fullyQualifiedTypeName name="p367.HankookTire"/>
+    <fullyQualifiedTypeName name="p367.KumhoTire"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.lang.Class"/>
 </qualifiedTypeNameHistroy>

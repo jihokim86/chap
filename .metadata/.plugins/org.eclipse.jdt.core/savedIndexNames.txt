@@ -1,18 +1,11 @@
-INDEX VERSION 1.131+C:\home_chap\.metadata\.plugins\org.eclipse.jdt.core
+INDEX VERSION 1.131+D:\jhk_java\chap\.metadata\.plugins\org.eclipse.jdt.core
+4219279280.index
 2578204313.index
-<<<<<<< HEAD
 130601786.index
 2007115701.index
-168336843.index
+1775555309.index
 2115267486.index
 10819363.index
-=======
->>>>>>> df26a9276ad66d29a2063fb3164574cb45342955
 2663481984.index
-2007115701.index
-4219279280.index
-3922113046.index
-10819363.index
 4004214287.index
-1865797976.index
-130601786.index
+3922113046.index
