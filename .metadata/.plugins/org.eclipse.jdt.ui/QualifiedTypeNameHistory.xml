@@ -14,7 +14,6 @@
     <fullyQualifiedTypeName name="p367.Tire"/>
     <fullyQualifiedTypeName name="p367.HankookTire"/>
     <fullyQualifiedTypeName name="p367.KumhoTire"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
     <fullyQualifiedTypeName name="java.lang.Class"/>
     <fullyQualifiedTypeName name="java.lang.OutOfMemoryError"/>
@@ -38,4 +37,15 @@
     <fullyQualifiedTypeName name="jdk.internal.net.http.hpack.Huffman.Writer"/>
     <fullyQualifiedTypeName name="java.io.OutputStreamWriter"/>
     <fullyQualifiedTypeName name="java.io.Writer"/>
+    <fullyQualifiedTypeName name="java.lang.Process"/>
+    <fullyQualifiedTypeName name="p659.Product"/>
+    <fullyQualifiedTypeName name="javax.swing.Box"/>
+    <fullyQualifiedTypeName name="p658.Box"/>
+    <fullyQualifiedTypeName name="p662.Pair"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="p666.Person"/>
+    <fullyQualifiedTypeName name="p666.HighStudent"/>
+    <fullyQualifiedTypeName name="p666.Course"/>
+    <fullyQualifiedTypeName name="p666.Student"/>
 </qualifiedTypeNameHistroy>
