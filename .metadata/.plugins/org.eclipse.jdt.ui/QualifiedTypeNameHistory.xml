@@ -48,4 +48,8 @@
     <fullyQualifiedTypeName name="p666.HighStudent"/>
     <fullyQualifiedTypeName name="p666.Course"/>
     <fullyQualifiedTypeName name="p666.Student"/>
+    <fullyQualifiedTypeName name="p685.UsingThis"/>
+    <fullyQualifiedTypeName name="p685.UsingThis.Inner"/>
+    <fullyQualifiedTypeName name="p687.MyFunctionalInterface"/>
+    <fullyQualifiedTypeName name="p687.UsingLocalVariable"/>
 </qualifiedTypeNameHistroy>
