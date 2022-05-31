@@ -1,6 +1,8 @@
 package p687;
 
 public class UsingLocalVariable {
+	
+	
 	void method(int arg) {
 		int localVar = 40;
 		
@@ -14,3 +16,4 @@ public class UsingLocalVariable {
 	}
 
 }
+

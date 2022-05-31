@@ -1,11 +1,11 @@
 package ex05;
 
-interface Car {
+public interface Car {
 	public void run();
 	public void stop();
 }
 
-public class AnonymouseTest1 {
+public abstract class AnonymouseTest1 implements Car{
 
 	public static void main(String[] args) {
 		Car fooCar = new Car() {
